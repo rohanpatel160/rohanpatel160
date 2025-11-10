@@ -10,16 +10,16 @@ Click a badge to view the verification for that certificate.
 
 <p>
   <a href="https://credentials.databricks.com/5dc40b77-9345-4587-8dde-7ab8e62b013e#acc.7VZo6Kw2" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Databricks-Credential-FF2C2C?style=flat-square&logo=databricks&logoColor=white" alt="Databricks Credential" />
+    <img src="https://img.shields.io/badge/Databricks-Credential-FF2C2C?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Credential" />
   </a>
   <a href="https://verify.skilljar.com/c/cbrd2fbmreay" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Skilljar-Certificate-00A3E0?style=flat-square&logo=skillshare&logoColor=white" alt="Skilljar Credential" />
+    <img src="https://img.shields.io/badge/Skilljar-Certificate-00A3E0?style=for-the-badge&logo=skillshare&logoColor=white" alt="Skilljar Credential" />
   </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/RohanPatel-0134/CC3C64A6EDE61A54?sharingId" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Microsoft-Credential-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Credential 1" />
+    <img src="https://img.shields.io/badge/Microsoft-Learn%20Credential-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Credential 1" />
   </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/RohanPatel-0134/1ED2F3B5116462CD?sharingId" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Microsoft-Credential-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Credential 2" />
+    <img src="https://img.shields.io/badge/Microsoft-Learn%20Credential-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Credential 2" />
   </a>
 </p>
 
@@ -32,6 +32,8 @@ Click a badge to view the verification for that certificate.
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/-PySpark-EE4C2C?style=flat-square&logo=apache-spark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/-PySpark-EE4C2C?style=flat-square&logo=apache-spark&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/-PySpark-EE4C2C?style=flat-square&logo=apache-spark&logoColor=white" alt="Fabric" />
   <img src="https://img.shields.io/badge/-Machine%20Learning-0A0A0A?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/-AI%2FML-6f42c1?style=flat-square&logo=ai&logoColor=white" alt="AI/ML" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
