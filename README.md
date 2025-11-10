@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Rohan Patel
 
-<!--
-**rohanpatel160/rohanpatel160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Data Engineer with over 4+ years of experience turning raw data into meaningful insights. I work with modern tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, DBT and the Data Lakehouse to build efficient data pipelines and solutions in the cloud. Currently upskilling in AI/ML, Deep Learning, MLOps & Generative AI (LLMs, RAG). I love learning and continuously improving my skills to stay up-to-date with the latest in the field.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+
+Click a badge to view the verification for that certificate.
+
+<p>
+  <a href="https://credentials.databricks.com/5dc40b77-9345-4587-8dde-7ab8e62b013e#acc.7VZo6Kw2" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Databricks-Credential-FF2C2C?style=flat-square&logo=databricks&logoColor=white" alt="Databricks Credential" />
+  </a>
+  <a href="https://verify.skilljar.com/c/cbrd2fbmreay" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Skilljar-Certificate-00A3E0?style=flat-square&logo=skillshare&logoColor=white" alt="Skilljar Credential" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/RohanPatel-0134/CC3C64A6EDE61A54?sharingId" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft-Credential-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Credential 1" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/RohanPatel-0134/1ED2F3B5116462CD?sharingId" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft-Credential-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Credential 2" />
+  </a>
+</p>
+
+
+---
+
+## Languages & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/-PySpark-EE4C2C?style=flat-square&logo=apache-spark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-0A0A0A?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/-AI%2FML-6f42c1?style=flat-square&logo=ai&logoColor=white" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-YAML-000000?style=flat-square&logo=yaml&logoColor=white" alt="YAML" />
+  <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/-Databricks-FF2C2C?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/-MCP-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+
+
