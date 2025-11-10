@@ -45,8 +45,3 @@ Click a badge to view the verification for that certificate.
 </p>
 
 ---
-
-### Notes
-
-- I added placeholder local SVG badge files under images/certs/. Replace those files with official PNG/SVG badge assets from the issuer pages to show the exact issuer badges.
-- See images/certs/README.md for instructions and quick curl commands to download the official images.
