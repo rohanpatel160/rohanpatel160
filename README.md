@@ -12,14 +12,14 @@ Click a badge to view the verification for that certificate.
   <a href="https://credentials.databricks.com/5dc40b77-9345-4587-8dde-7ab8e62b013e#acc.7VZo6Kw2" target="_blank" rel="noopener">
     <img src="Certificates_Rohan/Databricks_Generative%20AI%20Fundamentals.png" alt="Databricks Generative AI Fundamentals" width="160" />
   </a>
-  <a href="https://verify.skilljar.com/c/cbrd2fbmreay" target="_blank" rel="noopener">
-    <img src="Certificates_Rohan/Anthropic_AI%20Fluency.png" alt="Anthropic AI Fluency" width="160" />
-  </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/RohanPatel-0134/CC3C64A6EDE61A54?sharingId" target="_blank" rel="noopener">
     <img src="Certificates_Rohan/Azure_Fundamentals.png" alt="Azure Fundamentals" width="160" />
   </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/RohanPatel-0134/1ED2F3B5116462CD?sharingId" target="_blank" rel="noopener">
     <img src="Certificates_Rohan/Power%20BI_Data%20Analyst%20Associate.png" alt="Power BI Data Analyst Associate" width="160" />
+  </a>
+  <a href="https://verify.skilljar.com/c/cbrd2fbmreay" target="_blank" rel="noopener">
+    <img src="Certificates_Rohan/Anthropic_AI%20Fluency.png" alt="Anthropic AI Fluency" width="160" />
   </a>
 </p>
 
