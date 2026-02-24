@@ -10,7 +10,7 @@ Click a badge to view the verification for that certificate.
 
 <p align="center">
   <a href="https://credentials.databricks.com/45e330b0-c706-40ba-87b0-bcd0acec8443#acc.KslpcChW" target="_blank" rel="noopener">
-    <img src="Certificates_Rohan/Databricks_Generative%20AI%20Fundamentals.png" alt="Databricks Data Engineer Associate" width="160" />
+    <img src="Certificates_Rohan/Databricks DE.png" alt="Databricks Data Engineer Associate" width="160" />
   </a>
   <a href="https://credentials.databricks.com/5dc40b77-9345-4587-8dde-7ab8e62b013e#acc.7VZo6Kw2" target="_blank" rel="noopener">
     <img src="Certificates_Rohan/Databricks_Generative%20AI%20Fundamentals.png" alt="Databricks Generative AI Fundamentals" width="160" />
